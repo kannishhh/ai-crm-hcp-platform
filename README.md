@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" />AI-Powered Pharma CRM Platform
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="35" height="35" /> AI-Powered Pharma CRM Platform
 
 An enterprise-grade AI-powered Pharma CRM platform designed to streamline Healthcare Professional (HCP) interaction management using intelligent AI workflows, LangGraph multi-agent orchestration, real-time analytics, compliance monitoring, and automated follow-up generation.
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Project Overview
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Project Overview
 
 This platform enables pharmaceutical representatives and healthcare engagement teams to:
 
@@ -21,7 +21,7 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" alt="Construction" width="35" /> Architecture
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="25" height="25" /> Architecture
 
 ## Frontend
 
@@ -40,9 +40,9 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="35" /> Core Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="35" height="35" /> Core Features
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" /> AI Copilot Assistant
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> AI Copilot Assistant
 
 - AI-powered clinical assistant
 - Real-time interaction analysis
@@ -63,7 +63,7 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> LangGraph AI Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="35" height="35" /> LangGraph AI Tools
 
 ### 1. Log Interaction Tool
 
@@ -117,7 +117,7 @@ Live analytics powered directly from PostgreSQL:
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="Voltage" width="35" /> Real-Time Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Watch.png" alt="Watch" width="35" height="35" /> Real-Time Features
 
 - WebSocket notifications
 - Live dashboard updates
@@ -144,7 +144,7 @@ Used for:
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="35" /> AI Workflow Architecture
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="35" height="35" /> AI Workflow Architecture
 
 The application uses LangGraph multi-agent orchestration:
 
@@ -251,7 +251,7 @@ uvicorn app.main:app --reload
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Author" width="35" /> Author
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Author
 
 ### Kanish Kainth
 
