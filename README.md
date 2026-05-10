@@ -135,16 +135,15 @@ Live analytics powered directly from PostgreSQL:
 
 ## PostgreSQL
 
-Used as the primary production database.
+- Used as the primary production database.
 
 ## Alembic
 
-Used for:
-
-- schema migrations
-- version tracking
-- database upgrades
-- production-safe migrations
+- Used for:
+  schema migrations
+  version tracking
+  database upgrades
+  production-safe migrations
 
 ---
 
@@ -175,6 +174,7 @@ Dashboard + WebSocket Updates
 
 # 📂 Project Structure
 
+```text
 ai-crm-hcp-platform/
 │
 ├── frontend/
@@ -200,6 +200,9 @@ ai-crm-hcp-platform/
 │
 ├── README.md
 └── .gitignore
+```
+
+---
 
 # ⚙️ Installation Guide
 
@@ -298,21 +301,25 @@ uvicorn app.main:app --reload
 http://localhost:8000
 ```
 
+---
+
 # 🔌 API Features
 
 - Interaction APIs
-  - Create interaction
-  - Edit interaction
-  - Fetch interaction history
-  - Live analytics
+  Create interaction
+  Edit interaction
+  Fetch interaction history
+  Live analytics
 - AI APIs
-  - AI interaction analysis
-  - Compliance checking
-  - Follow-up generation
-  - HCP insights
+  AI interaction analysis
+  Compliance checking
+  Follow-up generation
+  HCP insights
 - WebSocket APIs
-  - Real-time notifications
-  - Live dashboard updates
+  Real-time notifications
+  Live dashboard updates
+
+---
 
 # AI Analytics Generated
 
@@ -326,6 +333,8 @@ http://localhost:8000
   - Adoption Probability
   - Follow-up Priorities
 
+---
+
 # Compliance Features
 
 - Regulatory risk detection
@@ -333,6 +342,8 @@ http://localhost:8000
 - Safety language monitoring
 - Clinical compliance insights
 - Adverse event indicators
+
+---
 
 # Real-Time Notification System
 
@@ -343,6 +354,8 @@ http://localhost:8000
 - AI workflow completion events
 - Compliance alerts
 
+---
+
 # Testing
 
 - Backend testing includes:
@@ -352,6 +365,8 @@ http://localhost:8000
   - AI response validation
   - Database persistence testing
   - WebSocket event testing
+
+---
 
 # Production Highlights
 
@@ -364,26 +379,16 @@ http://localhost:8000
 - WebSocket infrastructure
 - Scalable frontend architecture
 
-# Future Enhancements
-
-- Voice interaction support
-- Speech-to-text logging
-- Calendar integrations
-- Email automation
-- Docker deployment
-- CI/CD pipelines
-- Role-based access
-- Audit logs
-- PDF exports
+---
 
 # 👨‍💻 Author
 
 ### Kanish Kainth
 
 - Full Stack Developer specializing in:
-  - React.js
-  - Flask
-  - FastAPI
-  - AI-integrated systems
-  - LangGraph workflows
-  - PostgreSQL architectures
+  React.js
+  Flask
+  FastAPI
+  AI-integrated systems
+  LangGraph workflows
+  PostgreSQL architectures
