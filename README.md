@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="35" height="35" /> AI-Powered Pharma CRM Platform
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" align="center" /> AI-Powered Pharma CRM Platform
 
 An enterprise-grade AI-powered Pharma CRM platform designed to streamline Healthcare Professional (HCP) interaction management using intelligent AI workflows, LangGraph multi-agent orchestration, real-time analytics, compliance monitoring, and automated follow-up generation.
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Project Overview
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="center" /> Project Overview
 
 This platform enables pharmaceutical representatives and healthcare engagement teams to:
 
@@ -21,7 +21,7 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="25" height="25" /> Architecture
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="30" align="center"  /> Architecture
 
 ## Frontend
 
@@ -40,9 +40,9 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="35" height="35" /> Core Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" align="center"  /> Core Features
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> AI Copilot Assistant
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" align="center"  /> AI Copilot Assistant
 
 - AI-powered clinical assistant
 - Real-time interaction analysis
@@ -52,7 +52,7 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" /> Interaction Management
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="30" align="center"  /> Interaction Management
 
 - Log HCP interactions
 - Edit existing interactions
@@ -63,17 +63,17 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="35" height="35" /> LangGraph AI Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" align="center"  /> LangGraph AI Tools
 
-### 1. Log Interaction Tool
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20One.png" alt="Keycap Digit One" width="20" align="center"/> Log Interaction Tool
 
 Extracts structured interaction data from conversational clinical notes.
 
-### 2. Edit Interaction Tool
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Two.png" alt="Keycap Digit Two" width="20" align="center"  /> Edit Interaction Tool
 
 Allows conversational updates to existing CRM records.
 
-### 3. Follow-up Recommendation Tool
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Three.png" alt="Keycap Digit Three" width="20" align="center"/> Follow-up Recommendation Tool
 
 Generates:
 
@@ -82,7 +82,7 @@ Generates:
 - priority levels
 - engagement strategies
 
-### 4. Compliance Analysis Tool
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Four.png" alt="Keycap Digit Four" width="20" align="center"  /> Compliance Analysis Tool
 
 Detects:
 
@@ -91,7 +91,7 @@ Detects:
 - regulatory concerns
 - flagged language
 
-### 5. HCP Engagement Insight Tool
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Five.png" alt="Keycap Digit Five" width="20" align="center"  /> HCP Engagement Insight Tool
 
 Analyzes:
 
@@ -103,7 +103,7 @@ Analyzes:
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> Analytics Dashboard
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" align="center"  /> Analytics Dashboard
 
 Live analytics powered directly from PostgreSQL:
 
@@ -117,7 +117,7 @@ Live analytics powered directly from PostgreSQL:
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Watch.png" alt="Watch" width="35" height="35" /> Real-Time Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Watch.png" alt="Watch" width="30" align="center"  /> Real-Time Features
 
 - WebSocket notifications
 - Live dashboard updates
@@ -127,7 +127,7 @@ Live analytics powered directly from PostgreSQL:
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="35" /> Database
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="30" align="center"  /> Database
 
 ## PostgreSQL
 
@@ -144,7 +144,7 @@ Used for:
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="35" height="35" /> AI Workflow Architecture
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" align="center"  /> AI Workflow Architecture
 
 The application uses LangGraph multi-agent orchestration:
 
@@ -169,16 +169,16 @@ Dashboard + WebSocket Updates
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" /> Installation Guide
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" align="center"  /> Installation Guide
 
-## 1️⃣ Clone Repository
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20One.png" alt="Keycap Digit One" width="25" align="center"  /> Clone Repository
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_LINK
 cd ai-crm-hcp-platform
 ```
 
-## 2️⃣ Frontend Setup
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Two.png" alt="Keycap Digit Two" width="25" align="center"  /> Frontend Setup
 
 ```bash
 cd frontend
@@ -188,7 +188,7 @@ npm run dev
 
 - Frontend runs on: `http://localhost:5173`
 
-## 3️⃣ Backend Setup
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Three.png" alt="Keycap Digit Three" width="25" align="center" /> Backend Setup
 
 ```bash
 cd backend
@@ -199,13 +199,13 @@ python -m venv .venv
 - Windows: `.venv\Scripts\activate`
 - Install dependencies: `pip install -r requirements.txt`
 
-## 4️⃣ PostgreSQL Setup
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Four.png" alt="Keycap Digit Four" width="25" align="center" /> PostgreSQL Setup
 
 ```sql
 CREATE DATABASE ai_crm_hcp;
 ```
 
-## 5️⃣ Configure Environment Variables
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Five.png" alt="Keycap Digit Five" width="25" align="center" /> Configure Environment Variables
 
 - Create .env inside backend folder:
 
@@ -214,13 +214,13 @@ DATABASE_URL=postgresql://crm_user:your_password@localhost:5432/ai_crm_hcp
 GROQ_API_KEY=your_groq_api_key
 ```
 
-## 6️⃣ Run Alembic Migration
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Six.png" alt="Keycap Digit Six" width="25" align="center"  /> Run Alembic Migration
 
 ```bash
 alembic upgrade head
 ```
 
-## 7️⃣ Start Backend Server
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Seven.png" alt="Keycap Digit Seven" width="25" align="center" /> Start Backend Server
 
 ```bash
 uvicorn app.main:app --reload
@@ -230,7 +230,7 @@ uvicorn app.main:app --reload
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="35" /> Compliance Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="30" align="center"  /> Compliance Features
 
 - Regulatory risk detection
 - Flagged medical claim analysis
@@ -240,7 +240,7 @@ uvicorn app.main:app --reload
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="35" /> Real-Time Notifications
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="30" align="center"  /> Real-Time Notifications
 
 - Socket.IO powered notification system supports:
 - Interaction saved alerts
@@ -251,7 +251,7 @@ uvicorn app.main:app --reload
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Author
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Author" width="30" align="center"  /> Author
 
 ### Kanish Kainth
 
