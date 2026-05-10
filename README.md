@@ -1,10 +1,10 @@
-# 🧠 AI-Powered Pharma CRM Platform
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" />AI-Powered Pharma CRM Platform
 
 An enterprise-grade AI-powered Pharma CRM platform designed to streamline Healthcare Professional (HCP) interaction management using intelligent AI workflows, LangGraph multi-agent orchestration, real-time analytics, compliance monitoring, and automated follow-up generation.
 
 ---
 
-# 🚀 Project Overview
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Project Overview
 
 This platform enables pharmaceutical representatives and healthcare engagement teams to:
 
@@ -21,32 +21,28 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-# 🏗️ Architecture
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" alt="Construction" width="35" /> Architecture
 
 ## Frontend
 
-- React.js
-- Vite
-- Redux Toolkit
-- TailwindCSS
-- Framer Motion
-- Socket.IO Client
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## Backend
 
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Alembic
-- LangGraph
-- Groq LLM
-- WebSockets / Socket.IO
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f3f3f3?style=for-the-badge&logo=groq&logoColor=black)
 
 ---
 
-# ✨ Core Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="35" /> Core Features
 
-## 🤖 AI Copilot Assistant
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" /> AI Copilot Assistant
 
 - AI-powered clinical assistant
 - Real-time interaction analysis
@@ -56,7 +52,7 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-## 📝 Interaction Management
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" /> Interaction Management
 
 - Log HCP interactions
 - Edit existing interactions
@@ -67,7 +63,7 @@ The system uses LangGraph multi-agent workflows and structured AI extraction pip
 
 ---
 
-## 🧠 LangGraph AI Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> LangGraph AI Tools
 
 ### 1. Log Interaction Tool
 
@@ -107,7 +103,7 @@ Analyzes:
 
 ---
 
-# 📊 Analytics Dashboard
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> Analytics Dashboard
 
 Live analytics powered directly from PostgreSQL:
 
@@ -121,7 +117,7 @@ Live analytics powered directly from PostgreSQL:
 
 ---
 
-# ⚡ Real-Time Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="Voltage" width="35" /> Real-Time Features
 
 - WebSocket notifications
 - Live dashboard updates
@@ -131,7 +127,7 @@ Live analytics powered directly from PostgreSQL:
 
 ---
 
-# 🗄️ Database
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="35" /> Database
 
 ## PostgreSQL
 
@@ -139,15 +135,16 @@ Live analytics powered directly from PostgreSQL:
 
 ## Alembic
 
-- Used for:
-  schema migrations
-  version tracking
-  database upgrades
-  production-safe migrations
+Used for:
+
+- schema migrations
+- version tracking
+- database upgrades
+- production-safe migrations
 
 ---
 
-# 🧠 AI Workflow Architecture
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="35" /> AI Workflow Architecture
 
 The application uses LangGraph multi-agent orchestration:
 
@@ -172,39 +169,7 @@ Dashboard + WebSocket Updates
 
 ---
 
-# 📂 Project Structure
-
-```text
-ai-crm-hcp-platform/
-│
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ ├── package.json
-│ └── vite.config.js
-│
-├── backend/
-│ ├── app/
-│ │ ├── routes/
-│ │ ├── services/
-│ │ ├── tools/
-│ │ ├── models/
-│ │ ├── schemas/
-│ │ ├── database/
-│ │ └── workflows/
-│ │
-│ ├── alembic/
-│ ├── alembic.ini
-│ ├── requirements.txt
-│ └── main.py
-│
-├── README.md
-└── .gitignore
-```
-
----
-
-# ⚙️ Installation Guide
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" /> Installation Guide
 
 ## 1️⃣ Clone Repository
 
@@ -217,60 +182,27 @@ cd ai-crm-hcp-platform
 
 ```bash
 cd frontend
-
 npm install
-
 npm run dev
 ```
 
-- Frontend runs on:
-
-```bash
-http://localhost:5173
-```
+- Frontend runs on: `http://localhost:5173`
 
 ## 3️⃣ Backend Setup
 
 ```bash
 cd backend
-
 python -m venv .venv
 ```
 
-- Linux / macOS
-
-```bash
-source .venv/bin/activate
-```
-
-- Windows
-
-```bash
-.venv\Scripts\activate
-```
-
-- Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+- Linux / macOS: `source .venv/bin/activate`
+- Windows: `.venv\Scripts\activate`
+- Install dependencies: `pip install -r requirements.txt`
 
 ## 4️⃣ PostgreSQL Setup
 
 ```sql
 CREATE DATABASE ai_crm_hcp;
-```
-
-- Create user:
-
-```sql
-CREATE USER crm_user WITH PASSWORD 'your_password';
-```
-
-- Grant privileges:
-
-```sql
-GRANT ALL PRIVILEGES ON DATABASE ai_crm_hcp TO crm_user;
 ```
 
 ## 5️⃣ Configure Environment Variables
@@ -279,7 +211,6 @@ GRANT ALL PRIVILEGES ON DATABASE ai_crm_hcp TO crm_user;
 
 ```env
 DATABASE_URL=postgresql://crm_user:your_password@localhost:5432/ai_crm_hcp
-
 GROQ_API_KEY=your_groq_api_key
 ```
 
@@ -295,47 +226,11 @@ alembic upgrade head
 uvicorn app.main:app --reload
 ```
 
-- Backend runs on:
-
-```
-http://localhost:8000
-```
+- Backend runs on: `http://localhost:8000`
 
 ---
 
-# 🔌 API Features
-
-- Interaction APIs
-  Create interaction
-  Edit interaction
-  Fetch interaction history
-  Live analytics
-- AI APIs
-  AI interaction analysis
-  Compliance checking
-  Follow-up generation
-  HCP insights
-- WebSocket APIs
-  Real-time notifications
-  Live dashboard updates
-
----
-
-# AI Analytics Generated
-
-- The platform automatically generates:
-  - Sentiment Analysis
-  - Engagement Score
-  - Buying Intent Score
-  - Compliance Risk
-  - Competitor Influence
-  - HCP Interest Level
-  - Adoption Probability
-  - Follow-up Priorities
-
----
-
-# Compliance Features
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="35" /> Compliance Features
 
 - Regulatory risk detection
 - Flagged medical claim analysis
@@ -345,7 +240,7 @@ http://localhost:8000
 
 ---
 
-# Real-Time Notification System
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="35" /> Real-Time Notifications
 
 - Socket.IO powered notification system supports:
 - Interaction saved alerts
@@ -356,39 +251,15 @@ http://localhost:8000
 
 ---
 
-# Testing
-
-- Backend testing includes:
-  - API testing
-  - LangGraph workflow testing
-  - Compliance validation
-  - AI response validation
-  - Database persistence testing
-  - WebSocket event testing
-
----
-
-# Production Highlights
-
-- Enterprise-grade architecture
-- Modular backend services
-- Production PostgreSQL migration
-- LangGraph orchestration
-- Structured AI extraction
-- Real-time analytics engine
-- WebSocket infrastructure
-- Scalable frontend architecture
-
----
-
-# 👨‍💻 Author
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Author" width="35" /> Author
 
 ### Kanish Kainth
 
-- Full Stack Developer specializing in:
-  React.js
-  Flask
-  FastAPI
-  AI-integrated systems
-  LangGraph workflows
-  PostgreSQL architectures
+Full Stack Developer specializing in:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
